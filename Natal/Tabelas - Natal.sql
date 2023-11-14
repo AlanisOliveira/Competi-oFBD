@@ -1,5 +1,5 @@
 --Evento de natal - Avanti 
--- Criação das tabelas conforme a estrutura acima
+-- Criação das tabelas conforme o DER acima
 CREATE TABLE eventos_natal (
   evento_id SERIAL PRIMARY KEY,
   nome_evento VARCHAR(255),
